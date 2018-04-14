@@ -10,6 +10,7 @@ Aquesta pràctica l'ha realitzat de manera individual l'alumne **Josep Lluís Ca
 * **BCN_nomenclator.py**: Fitxer Python que conté tot el codi que es fa servir per fer el scraping i el tractament de les dades.
 * **BCN_nomenclator.csv**: Fitxer CSV en el que s'emmgatatzemen les dades del dataset.
 * **CARRERER.csv**: Fitxer CSV auxiliar que es crea durant el desenvolupament del dataset.
+* **Odonímia de la Ciutat de Barcelona.docx**: Fitxer DOCX en el que es descriu el dataset.
 
 ## Recursos:
 * Lawson, R. (2015). _Web Scraping with Python_. Packt Publishing Ltd. 
