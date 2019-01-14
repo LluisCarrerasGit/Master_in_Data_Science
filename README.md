@@ -6,3 +6,4 @@ The works are from the next subjects:
 - Introduction to Python.
 - Data tipology and life cicle.
 - Advanced models in Data Mining.
+- Advanced Data Mining.
